@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anjalimodi/library-frontend/static/css/main.073c9b0a.css",
+    "main.js": "/anjalimodi/library-frontend/static/js/main.099d9682.js",
+    "static/js/787.4cb49494.chunk.js": "/anjalimodi/library-frontend/static/js/787.4cb49494.chunk.js",
+    "index.html": "/anjalimodi/library-frontend/index.html",
+    "main.073c9b0a.css.map": "/anjalimodi/library-frontend/static/css/main.073c9b0a.css.map",
+    "main.099d9682.js.map": "/anjalimodi/library-frontend/static/js/main.099d9682.js.map",
+    "787.4cb49494.chunk.js.map": "/anjalimodi/library-frontend/static/js/787.4cb49494.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.099d9682.js"
+  ]
+}
